@@ -1,4 +1,4 @@
-# JavaScript second assessment Review
+# JavaScript Second Assessment Review
 
 
 ## Instructions
