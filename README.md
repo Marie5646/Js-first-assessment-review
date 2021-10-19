@@ -51,9 +51,3 @@
 
 10. Write a function named `getFisrtValue` that takes an array containing only numbers and return the first element.
 
-
-
-
-
-
-# Regulus-js2-assessment-review
