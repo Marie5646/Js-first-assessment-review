@@ -51,3 +51,4 @@
 
 10. Write a function named `getFisrtValue` that takes an array containing only numbers and return the first element.
 
+# Js-first-assessment-review
